@@ -1,6 +1,6 @@
 ## Simple React quiz for checking your knowledge of react only 15 questions;
 
- App has ability to start quiz, restart it. Show the amount of earn points, also show a progress throught quiz. 
+App has ability to start quiz, restart it. Show the amount of earn points, also show a progress throught quiz. 
 
 You can watch summary of a answers that you have gave after the end of the quiz. But amount of answer should be no less than 5. If it less than five there will be a warning massage.
 
