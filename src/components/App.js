@@ -13,7 +13,7 @@ import Timer from "./Timer";
 import Footer from "./Footer";
 import Summary from "./Summary";
 
-const SECONDS_PER_QUESTION = 10;
+const SECONDS_PER_QUESTION = 30;
 
 const initialState = {
   questions: [],
